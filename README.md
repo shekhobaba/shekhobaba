@@ -27,7 +27,7 @@
 <a href="https://instagram.com/iamshekhobaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamshekhobaba" height="30" width="40" /></a>
 <a href="https://dribbble.com/shekhobaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shekhobaba" height="30" width="40" /></a>
 </p>
-<a href="https://www.linkedin.com/in/mobile-app-developer-flutter-expert/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/60000991/210625378-49af0c06-4a6c-48aa-b5ef-fdab1fa256e9.png)" alt="shekhobaba" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mobile-app-developer-flutter-expert/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/60000991/210625378-49af0c06-4a6c-48aa-b5ef-fdab1fa256e9.png" alt="shekhobaba" height="30" width="40" /></a>
 </p>
 
 
